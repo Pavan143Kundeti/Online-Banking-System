@@ -64,28 +64,3 @@ Acknowledgments
 Tkinter Documentation: Tkinter Documentation
 Python Programming Community: For resources and support.
 
-### Steps to Add the `README.md` File to GitHub
-
-If you want to add this `README.md` file to your GitHub repository without having a local repository, follow these steps:
-
-1. **Navigate to Your Repository**:
-   - Go to [GitHub](https://github.com) and navigate to the repository where you want to add the `README.md` file.
-
-2. **Create a New File**:
-   - Click on the `Add file` button located just above the file list.
-   - Choose `Create new file` from the dropdown menu.
-
-3. **Name Your File**:
-   - In the "Name your file…" field, type `README.md`.
-
-4. **Paste the Content**:
-   - Copy the `README.md` content provided above.
-   - Paste it into the file editor on GitHub.
-
-5. **Commit the New File**:
-   - Scroll down to the "Commit new file" section.
-   - Enter a commit message like "Add README.md".
-   - Choose `Commit directly to the main branch`.
-   - Click the `Commit new file` button.
-
-This will add the `README.md` file to your GitHub repository.
